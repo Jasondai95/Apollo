@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_l5eewK8NEeWb_N-JqogGXQ" activeDiagram="_l6KbQK8NEeWb_N-JqogGXQ">
+  <model href="bookstore.uml#_lYWHoa8NEeWb_N-JqogGXQ"/>
+  <diagrams xmi:id="_l6KbQK8NEeWb_N-JqogGXQ" position="0,0" size="100,100" name="bookstore" zoom="0.11136552872606162" viewport="0,0">
+    <property xmi:id="_mfZ2UK8NEeWb_N-JqogGXQ" key="pageFormatName" value=""/>
+    <property xmi:id="_mfZ2Ua8NEeWb_N-JqogGXQ" key="diagramWidth" value="7480"/>
+    <property xmi:id="_mfZ2Uq8NEeWb_N-JqogGXQ" key="diagramHeight" value="4844"/>
+    <property xmi:id="_mfadYK8NEeWb_N-JqogGXQ" key="pageMarginName" value="A4"/>
+    <property xmi:id="_mfadYa8NEeWb_N-JqogGXQ" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_mfadYq8NEeWb_N-JqogGXQ" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_mfadY68NEeWb_N-JqogGXQ" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_mfadZK8NEeWb_N-JqogGXQ" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_mfadZa8NEeWb_N-JqogGXQ" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_l6KbQa8NEeWb_N-JqogGXQ" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="bookstore.uml#_lYWHoa8NEeWb_N-JqogGXQ"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_mvgH0K8NEeWb_N-JqogGXQ" position="35,35" size="7370,4734">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mvgH0a8NEeWb_N-JqogGXQ" presentation="default">
+        <element href="bookstore.uml#_lfVgcK8NEeWb_N-JqogGXQ"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxBKwK8NEeWb_N-JqogGXQ" position="15,11" size="7340,4672">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxBKwa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_lfn0UK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_mxCY4K8NEeWb_N-JqogGXQ" position="648,168" size="7310,4610">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxCY4a8NEeWb_N-JqogGXQ" presentation="default">
+        <element href="bookstore.uml#_lfn0Ua8NEeWb_N-JqogGXQ"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxEOEK8NEeWb_N-JqogGXQ" position="2675,325" size="2170,1470">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxEOEa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_lfn0Uq8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_mxK7wK8NEeWb_N-JqogGXQ" position="525,890" size="490,350">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxK7wa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lfobYK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_mxQbUK8NEeWb_N-JqogGXQ" position="95,60" size="299,-1">
+            <anchorage xmi:id="_mytM0K8NEeWb_N-JqogGXQ" graphEdge="_m0mqQK8NEeWb_N-JqogGXQ _m3Jn8K8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxQbUa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lf0BkK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_mxQbUq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_mxQbU68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxQbVK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lf0BkK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxoOwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxoOwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lmmmEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_mxQbVa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_mxQbVq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxQbV68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lf0BkK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxrSEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxrSEa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lm3EwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxu8cK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxvjgK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqWdoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxwKkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxwKka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqZg8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxwxoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxwxoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqeZca8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxx_wK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxx_wa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqjR8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxym0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxym0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqnjYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mxz08K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxz08a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqtC8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_mxMJ4K8NEeWb_N-JqogGXQ" position="70,750" size="420,630">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxMJ4a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgIKoK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_myJzMK8NEeWb_N-JqogGXQ" position="78,83" size="264,-1">
+            <anchorage xmi:id="_m2NMwK8NEeWb_N-JqogGXQ" graphEdge="_m2PB8K8NEeWb_N-JqogGXQ _m24iMK8NEeWb_N-JqogGXQ _m4wKcK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myJzMa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgIKoa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_myJzMq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_myJzM68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myJzNK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgIKoa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_myM2gK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myM2ga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lqzwoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myNdkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myNdka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lq2z8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myOrsK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myOrsa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lq8TgK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myPSwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myPSwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lq_W0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myP50K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myP50a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrDoQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myRH8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myRH8a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrHSoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myRvAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myRvAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrJu4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_myJzNa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_myJzNq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myJzN68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgIKoa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_myRvAq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myRvA68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrLkEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myS9IK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myS9Ia8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrOAUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myULQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myULQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrP1gK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myUyUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myUyUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrSRwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myVZYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myVZYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrUG8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myWngK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myWnga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrWjMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myXOkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myXOka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrXxUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myX1oK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myX1oa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lra0oK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myZDwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myZDwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrcp0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myZq0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myZq0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrftIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mya48K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mya48a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrhiUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mybgAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mybgAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrj-kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mycHEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mycHEa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrlzwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mydVMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mydVMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrpeIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myd8QK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myd8Qa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrrTUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_mxMw8K8NEeWb_N-JqogGXQ" position="525,190" size="490,630">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxMw8a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgKm4a8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_myhmoK8NEeWb_N-JqogGXQ" position="95,249" size="299,-1">
+            <anchorage xmi:id="_mytM0a8NEeWb_N-JqogGXQ" graphEdge="_m0mqQK8NEeWb_N-JqogGXQ _m1cXwK8NEeWb_N-JqogGXQ _m1jFcK8NEeWb_N-JqogGXQ _m1olAK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myhmoa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgLN8K8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_myhmoq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_myhmo68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myhmpK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgLN8K8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_mykC4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mykC4a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrtvkK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_myhmpa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_myhmpq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myhmp68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgLN8K8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_mykp8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mykp8a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lrwL0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mylRAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mylRAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lryoEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mymfIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mymfIa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lr0dQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_mynGMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mynGMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lr2ScK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myoUUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myoUUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lr4usK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_myo7YK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_myo7Ya8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lr7K8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_mxOmIK8NEeWb_N-JqogGXQ" position="1050,50" size="1050,980">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxOmIa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgNDIK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m0ptkK8NEeWb_N-JqogGXQ" position="70,50" size="910,840">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0ptka8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgNDIa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m0tX8K8NEeWb_N-JqogGXQ" position="130,61" size="649,-1">
+              <anchorage xmi:id="_m1mIwK8NEeWb_N-JqogGXQ" graphEdge="_m1olAK8NEeWb_N-JqogGXQ"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0tX8a8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgORQK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m0t_AK8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m0t_Aa8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0t_Aq8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgORQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m00ssK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m00ssa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lr_cYK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m02h4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m02h4a8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lsB4oK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m0t_A68NEeWb_N-JqogGXQ">
+                <property xmi:id="_m0t_BK8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0t_Ba8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgORQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m02h4q8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m03I8K8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lsEU4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m04-IK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m04-Ia8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lsHYMK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m07aYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m07aYa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lsLCkK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m0xCUK8NEeWb_N-JqogGXQ" position="70,225" size="770,525">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0xCUa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgQtgK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m1AS4K8NEeWb_N-JqogGXQ" position="85,78" size="600,-1">
+                <anchorage xmi:id="_m1ZUcK8NEeWb_N-JqogGXQ" graphEdge="_m1cXwK8NEeWb_N-JqogGXQ _m3C6QK8NEeWb_N-JqogGXQ"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1AS4a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgQtga8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m1AS4q8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m1A58K8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1A58a8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lgQtga8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1Jc0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1Jc0a8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsYd8K8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1MgIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1MgIa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lscvYK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1MgIq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1MgI68NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsgZwK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m1A58q8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m1A5868NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1A59K8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lgQtga8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1MgJK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1MgJa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lskEIK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1OVUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1O8YK8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsnugK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1QxkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1Qxka8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsrY4K8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1R_sK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1R_sa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsvDQK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1TN0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1TN0a8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lsyGkK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m1D9QK8NEeWb_N-JqogGXQ" position="127,324" size="516,-1">
+                <anchorage xmi:id="_m1fbEK8NEeWb_N-JqogGXQ" graphEdge="_m1jFcK8NEeWb_N-JqogGXQ _m3EvcK8NEeWb_N-JqogGXQ"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1EkUK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgUX4a8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m1EkUa8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m1EkUq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1EkU68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lgUX4a8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1VqEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1VqEa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_ls3mIK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1W4MK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1W4Ma8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_ls9FsK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1W4Mq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1W4M68NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_ltB-MK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m1EkVK8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m1EkVa8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1EkVq8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lgUX4a8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m1W4NK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1W4Na8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_ltFokK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m0mqQK8NEeWb_N-JqogGXQ" anchor="_mytM0K8NEeWb_N-JqogGXQ _mytM0a8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYDVkK8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m0nRUK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1PfAK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRUa8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRUq8NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRU68NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRVK8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRVa8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m0nRVq8NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m0nRV68NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m0nRWK8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m1cXwK8NEeWb_N-JqogGXQ" anchor="_mytM0a8NEeWb_N-JqogGXQ _m1ZUcK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYD8oa8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1cXwa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1QGEq8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXwq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXw68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXxK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXxa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXxq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1cXx68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1c-0K8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1c-0a8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m1jFcK8NEeWb_N-JqogGXQ" anchor="_mytM0a8NEeWb_N-JqogGXQ _m1fbEK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYD8oq8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1jsgK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1QGFK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jsga8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jsgq8NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jsg68NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jshK8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jsha8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1jshq8NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1jsh68NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1jsiK8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m1olAK8NEeWb_N-JqogGXQ" anchor="_mytM0a8NEeWb_N-JqogGXQ _m1mIwK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYD8o68NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1olAa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1PfAq8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pMEK8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pMEa8NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pMEq8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pME68NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pMFK8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m1pMFa8NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1pMFq8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m1pMF68NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxFcMK8NEeWb_N-JqogGXQ" position="1345,1165" size="1295,735">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxFcMa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_lgmEsa8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_m1wg0K8NEeWb_N-JqogGXQ" position="70,50" size="420,595">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1wg0a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgmrwK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m10yQK8NEeWb_N-JqogGXQ" position="95,323" size="229,-1">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m10yQa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgmrwa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m10yQq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m11ZUK8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m11ZUa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgmrwa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m1644K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1644a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltJS8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m11ZUq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m11ZU68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m11ZVK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgmrwa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m18HAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m18uEK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltLvMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m198MK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m198Ma8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltNkYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m1_xYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1_xYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltPZkK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2A_gK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2A_ga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltR10K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2CNoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2CNoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltUSEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_m131kK8NEeWb_N-JqogGXQ" position="113,69" size="194,-1">
+            <anchorage xmi:id="_m2NMwa8NEeWb_N-JqogGXQ" graphEdge="_m2PB8K8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m131ka8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgpIAa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m131kq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m131k68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m131lK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgpIAa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2Ep4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2Ep4a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltXVYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2Ep4q8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2Ep468NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltZxoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m131la8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m131lq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m131l68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgpIAa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2F4AK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2F4Aa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lta_wK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2HtMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2HtMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltcN4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2IUQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2IUQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lteDEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2I7UK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2I7Ua8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltfRMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2JiYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2JiYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lthGYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2KJcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2KJca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lthtcK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m1yWAK8NEeWb_N-JqogGXQ" position="546,349" size="657,241">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m1y9EK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgq9MK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m2QQEK8NEeWb_N-JqogGXQ" position="17,11" size="625,179">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2QQEa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgq9Ma8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m2ReMK8NEeWb_N-JqogGXQ" position="16,11" size="593,-1">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2ReMa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgq9Mq8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2ReMq8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m2ReM68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2ReNK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgq9Mq8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m2TTYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2TTYa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ltkwwK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2ReNa8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m2ReNq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2ReN68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lgq9Mq8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m2T6cK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2T6ca8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ltn0EK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m2VIkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2VIka8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ltsFgK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m2VvoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2Vvoa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ltwW8K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxGqUK8NEeWb_N-JqogGXQ" position="4880,45" size="2415,1505">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxGqUa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_lgtZcK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_m2aBEK8NEeWb_N-JqogGXQ" position="455,50" size="420,350">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2aBEa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgtZca8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m2hV0K8NEeWb_N-JqogGXQ" position="81,78" size="257,-1">
+            <anchorage xmi:id="_m3FWgK8NEeWb_N-JqogGXQ" graphEdge="_m3HLsK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2hV0a8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgunkK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m2hV0q8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m2hV068NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2hV1K8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgunkK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2jLAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2jyEK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_ltzaQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m2hV1a8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m2hV1q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2hV168NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgunkK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2lnQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2lnQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lt12gK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2mOUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2mOUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lt3rsK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2nccK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2ncca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lt6vAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2oDgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2oDga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lt8kMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2oqkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2oqka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lt_AcK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m2cdUK8NEeWb_N-JqogGXQ" position="70,50" size="350,350">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2cdUa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgxq4K8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m2rt4K8NEeWb_N-JqogGXQ" position="71,69" size="208,-1">
+            <anchorage xmi:id="_m22F8K8NEeWb_N-JqogGXQ" graphEdge="_m24iMK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2rt4a8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgxq4a8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m2rt4q8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m2rt468NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2rt5K8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgxq4a8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2uKIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2uxMK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luBcsK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2vYQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2vYQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luCq0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m2rt5a8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m2rt5q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2rt568NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgxq4a8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2wmYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2wmYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luD48K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2xNcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2xNca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luFHEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2x0gK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2x0ga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luFuIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2zCoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2zCoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luG8QK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2zpsK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2zpsa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luIKYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m2eSgK8NEeWb_N-JqogGXQ" position="455,645" size="420,770">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2eSga8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lgzgEK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m25JQK8NEeWb_N-JqogGXQ" position="81,83" size="257,-1">
+            <anchorage xmi:id="_m3BFEK8NEeWb_N-JqogGXQ" graphEdge="_m3C6QK8NEeWb_N-JqogGXQ _m3EvcK8NEeWb_N-JqogGXQ _m3HLsK8NEeWb_N-JqogGXQ _m3Jn8K8NEeWb_N-JqogGXQ _m3ci4K8NEeWb_N-JqogGXQ _m3g0UK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m25JQa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lgzgEa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m25JQq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m25JQ68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m25JRK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgzgEa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m26-cK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m26-ca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luJ_kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m26-cq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m26-c68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luL0wK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m25JRa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m25JRq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m25JR68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lgzgEa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m26-dK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m26-da8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luNC4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m28MkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m28Mka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luORAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m28zoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m28zoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luQGMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m29asK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2-BwK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luRUUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m2-o0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2-o0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_luTJgK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m2fgoK8NEeWb_N-JqogGXQ" position="910,610" size="1435,805">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2fgoa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lg1VQa8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m3KPAK8NEeWb_N-JqogGXQ" position="70,50" size="1295,665">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3KPAa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lg1VQq8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m3LdIK8NEeWb_N-JqogGXQ" position="155,79" size="600,-1">
+              <anchorage xmi:id="_m3eYEK8NEeWb_N-JqogGXQ" graphEdge="_m3g0UK8NEeWb_N-JqogGXQ"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3LdIa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lg2jYK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3LdIq8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m3LdI68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3LdJK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lg2jYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3N5YK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3N5Ya8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_luVlwK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3PHgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3PHga8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_luWz4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3LdJa8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m3LdJq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3LdJ68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lg2jYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3PHgq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3PHg68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_luYCAK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m3MrQK8NEeWb_N-JqogGXQ" position="70,225" size="1155,350">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3MrQa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lg3xgK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3QVoK8NEeWb_N-JqogGXQ" position="85,78" size="600,-1">
+                <anchorage xmi:id="_m3atsK8NEeWb_N-JqogGXQ" graphEdge="_m3ci4K8NEeWb_N-JqogGXQ"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3QVoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lg4_oK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3QVoq8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m3QVo68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3QVpK8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lg4_oK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3TY8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3TY8a8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lubFUK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3UnEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3UnEa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lufWwK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3QVpa8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m3QVpq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3QVp68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lg4_oK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3VOIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3VOIa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_luhL8K8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3V1MK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3V1Ma8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_luk2UK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3WcQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3WcQa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_luogsK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3XDUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3XDUa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_lurkAK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3XqYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3XqYa8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_luvOYK8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3RjwK8NEeWb_N-JqogGXQ" position="750,119" size="320,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3Rjwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lg8qAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3Rjwq8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m3Rjw68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3RjxK8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lg8qAK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_m3ZfkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3Zfka8NEeWb_N-JqogGXQ" presentation="default">
+                      <element href="bookstore.uml#_luzf0K8NEeWb_N-JqogGXQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m3Rjxa8NEeWb_N-JqogGXQ">
+                  <property xmi:id="_m3Rjxq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3Rjx68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lg8qAK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m3HLsK8NEeWb_N-JqogGXQ" anchor="_m3FWgK8NEeWb_N-JqogGXQ _m3BFEK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYEjsK8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3HywK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1RUMK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Hywa8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Hywq8NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Hyw68NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3HyxK8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Hyxa8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Hyxq8NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3Hyx68NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3HyyK8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m3ci4K8NEeWb_N-JqogGXQ" anchor="_m3BFEK8NEeWb_N-JqogGXQ _m3atsK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYEjtK8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3ci4a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1SiUK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci4q8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci468NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci5K8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci5a8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci5q8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3ci568NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3ci6K8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3ci6a8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m3g0UK8NEeWb_N-JqogGXQ" anchor="_m3BFEK8NEeWb_N-JqogGXQ _m3eYEK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYFKwK8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3g0Ua8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1R7Qq8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0Uq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0U68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0VK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0Va8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0Vq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3g0V68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3g0WK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3g0Wa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxH4cK8NEeWb_N-JqogGXQ" position="15,3090" size="3605,1470">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxH4ca8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_lg94IK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_m32LgK8NEeWb_N-JqogGXQ" position="70,890" size="490,420">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m32Lga8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lg94Ia8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m37rEK8NEeWb_N-JqogGXQ" position="85,77" size="320,-1">
+            <anchorage xmi:id="_m5ApIK8NEeWb_N-JqogGXQ" graphEdge="_m5CeUK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m37rEa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhSBMK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m37rEq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m37rE68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m37rFK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhSBMK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m39gQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m39gQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lu3xQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m37rFa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m37rFq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m37rF68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhSBMK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3-uYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3-uYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lu60kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3_VcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3_Vca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lu-e8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m3_8gK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3_8ga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvBiQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4AjkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4Ajka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvFzsK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4BKoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4BKoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvKsMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4CYwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4CYwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvPksK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4C_0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4C_0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvT2IK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4EN8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4EN8a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvYHkK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4E1AK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4E1Aa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvdAEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m33ZoK8NEeWb_N-JqogGXQ" position="2730,820" size="805,560">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m33Zoa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lhe1gK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m4JGcK8NEeWb_N-JqogGXQ" position="85,120" size="250,-1">
+            <anchorage xmi:id="_m4pcwa8NEeWb_N-JqogGXQ" graphEdge="_m4sgEK8NEeWb_N-JqogGXQ _m4wKcK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4JGca8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhgDoK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4JGcq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4JGc68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4JGdK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhgDoK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4LisK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4MJwK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvifoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4Mw0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4Mw0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvkU0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4NX4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4NX4a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvli8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4N-8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4N-8a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvmxEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4N-8q8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4N-868NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvomQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4JGda8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4JGdq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4JGd68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhgDoK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4N-9K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4N-9a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvpNUK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4OmAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4OmAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvqbcK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4PNEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4PNEa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvrpkK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4P0IK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4P0Ia8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvtewK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4QbMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4QbMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvuF0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4RCQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4RCQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvwiEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4RpUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4RpUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lvyXQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4SQYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4SQYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lv0zgK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4S3cK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4S3ca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lv2osK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4TegK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4Tega8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lv4d4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_m4KUkK8NEeWb_N-JqogGXQ" position="407,57" size="306,-1">
+            <anchorage xmi:id="_m4pcwK8NEeWb_N-JqogGXQ" graphEdge="_m4sgEK8NEeWb_N-JqogGXQ _m6EZEK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4KUka8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhjuAK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4KUkq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4KUk68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4KUlK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhjuAK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4V6wK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4V6wa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lv7hMK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4Wh0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4Wh0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lv_yoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4YXAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4YXAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwC18K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4ZlIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4ZlIa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwF5QK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4aMMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4aMMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwHucK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4aMMq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4aMM68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwKKsK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4azQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4azQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwMm8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4KUla8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4KUlq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4KUl68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhjuAK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4baUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4baUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwN1EK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4cBYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4cocK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwPqQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4dPgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4dPga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwQ4YK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4d2kK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4d2ka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwSGgK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4edoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4edoa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwT7sK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4fEsK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4fEsa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwVJ0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4frwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4frwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwW_AK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4gS0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4gS0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwY0MK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4g54K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4g54a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwapYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4iIAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4iIAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwb3gK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4ivEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4ivEa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwdFoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4jWIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4jWIa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lweTwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4j9MK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4j9Ma8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwgI8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m4lLUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4lLUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwh-IK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphEdge" xmi:id="_m4sgEK8NEeWb_N-JqogGXQ" anchor="_m4pcwK8NEeWb_N-JqogGXQ _m4pcwa8NEeWb_N-JqogGXQ">
+            <property xmi:id="_nYFKwq8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4sgEa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_l1SiUq8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgEq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgE68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgFK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgFa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgFq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+            <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4sgF68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+            <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m4sgGK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+            <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m4sgGa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m34nwK8NEeWb_N-JqogGXQ" position="70,190" size="490,525">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m34nwa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lhpNkK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m4ymsK8NEeWb_N-JqogGXQ" position="85,84" size="320,-1">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4ymsa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhpNka8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4ymsq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4yms68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4zNwK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhpNka8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m43fMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m43fMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwlBcK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m4zNwa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m4zNwq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4zNw68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhpNka8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_m41C8K8NEeWb_N-JqogGXQ" position="120,258" size="250,-1">
+            <anchorage xmi:id="_m5ApIa8NEeWb_N-JqogGXQ" graphEdge="_m5CeUK8NEeWb_N-JqogGXQ _m5aRwK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m41C8a8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhrp0K8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m41C8q8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m41C868NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m41C9K8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhrp0K8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m44tUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m44tUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwm2oK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m41C9a8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m41C9q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m41C968NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhrp0K8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m44tUq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m44tU68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwoEwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m457cK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m457ca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwwnoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m46igK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m46iga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwyc0K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m47JkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m47woK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lwzq8a8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m48XsK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m48Xsa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lw1gIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m3514K8NEeWb_N-JqogGXQ" position="595,50" size="2310,735">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3514a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lhxwcK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m5DscK8NEeWb_N-JqogGXQ" position="70,50" size="2170,595">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5Dsca8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lhyXgK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5GIsK8NEeWb_N-JqogGXQ" position="781,314" size="607,-1">
+              <anchorage xmi:id="_m5YckK8NEeWb_N-JqogGXQ" graphEdge="_m5aRwK8NEeWb_N-JqogGXQ"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5GIsa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lhy-kK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5GIsq8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m5GIs68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5GItK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lhy-kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5JMAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5JMAa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lw6_sK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5KaIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5KaIa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxAfQK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5GIta8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m5GItq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5GIt68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lhy-kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5KaIq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5KaI68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxDikK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5LBMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5LBMa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxGl4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5LoQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5LoQa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxJpMK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5MPUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5MPUa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxNTkK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5NdcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5Ndca8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxQW4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5OEgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5OEga8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxTaMK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5H94K8NEeWb_N-JqogGXQ" position="95,69" size="1979,-1">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5H94a8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liErYa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5H94q8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m5H9468NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5H95K8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_liErYa8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5P5sK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5P5sa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxaH4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5H95a8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m5H95q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5H9568NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_liErYa8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5Ru4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5Ru4a8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxfAYK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5SV8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5SV8a8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxjR0K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5TkEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5TkEa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxnjQK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5ULIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5ULIa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxrNoK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5VZQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5VZQa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxu4AK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m5WAUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5WAUa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lxx7Ua8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m5CeUK8NEeWb_N-JqogGXQ" anchor="_m5ApIK8NEeWb_N-JqogGXQ _m5ApIa8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYFKwa8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5DFYK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1TwcK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFYa8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFYq8NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFY68NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFZK8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFZa8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5DFZq8NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m5DFZ68NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m5DFaK8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m5aRwK8NEeWb_N-JqogGXQ" anchor="_m5ApIa8NEeWb_N-JqogGXQ _m5YckK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYFKw68NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5aRwa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1Twcq8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRwq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRw68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRxK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRxa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRxq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m5aRx68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m5aRyK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m5aRya8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_mxJGkK8NEeWb_N-JqogGXQ" position="3025,1830" size="2030,1225">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mxJGka8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_liOcYK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_m5gYYK8NEeWb_N-JqogGXQ" position="525,680" size="490,350">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5gYYa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_liPDcK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m5nGEK8NEeWb_N-JqogGXQ" position="78,78" size="334,-1">
+            <anchorage xmi:id="_m6OxIK8NEeWb_N-JqogGXQ" graphEdge="_m6RNYK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5nGEa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_liQ4oK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5nGEq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m5nGE68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5nGFK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liQ4oK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5o7QK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5o7Qa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx2MwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5nGFa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m5nGFq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5nGF68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liQ4oK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5piUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5piUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx3a4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5qJYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5qJYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx53IK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5qwcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5qwca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx7FQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5rXgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5rXga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx86cK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5r-kK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5r-ka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lx-voK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m5hmgK8NEeWb_N-JqogGXQ" position="70,575" size="420,560">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5iNkK8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_liVKEK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m5vo8K8NEeWb_N-JqogGXQ" position="85,66" size="250,-1">
+            <anchorage xmi:id="_m6Cj4K8NEeWb_N-JqogGXQ" graphEdge="_m6EZEK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5vo8a8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_liVKEa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5vo8q8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m5vo868NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5vo9K8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liVKEa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5xeIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5xeIa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyBL4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5yFMK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5yFMa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyDBEK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5ysQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5ysQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyE2QK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5z6YK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5z6Ya8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyGrcK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m50hcK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m50hca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyH5kK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m51IgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m51Iga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyJuwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m5vo9a8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m5vo9q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5vo968NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liVKEa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m51vkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m51vka8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyK84K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m52WoK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m52Woa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyMLAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m529sK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m529sa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyNZIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m54L0K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m54L0a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyOnQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m55Z8K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m55Z8a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyP1YK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m56BAK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m56BAa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyRDgK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m56oEK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m56oEa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lySRoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m57PIK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m57PIa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyTfwK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m572MK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m572Ma8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyUt4K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m58dQK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m58dQa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyV8AK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m59EUK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m59EUa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyXKIK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m59rYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m59rYa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyYYQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m5-ScK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5-Sca8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyZmYK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m5kCwK8NEeWb_N-JqogGXQ" position="525,190" size="490,455">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5kCwa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_liYNYK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m6FAIK8NEeWb_N-JqogGXQ" position="85,84" size="320,-1">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6FAIa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_liYNYa8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6FAIq8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m6FAI68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6FAJK8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liYNYa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6IqgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Iqga8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lycCoK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6FAJa8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m6FAJq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6FAJ68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liYNYa8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_m6GOQK8NEeWb_N-JqogGXQ" position="130,241" size="229,-1">
+            <anchorage xmi:id="_m6OxIa8NEeWb_N-JqogGXQ" graphEdge="_m6RNYK8NEeWb_N-JqogGXQ _m6yKwK8NEeWb_N-JqogGXQ"/>
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6G1UK8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_liZbga8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6G1Ua8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m6G1Uq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6G1U68NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liZbga8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6J4oK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6J4oa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyd30K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6G1VK8NEeWb_N-JqogGXQ">
+              <property xmi:id="_m6G1Va8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6G1Vq8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_liZbga8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6J4oq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6J4o68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyfF8K8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6LGwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6LGwa8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyg7IK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6MU4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6MU4a8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lyiJQK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_m5lQ4K8NEeWb_N-JqogGXQ" position="1050,50" size="910,665">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m5lQ4a8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_lice0K8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_m6SbgK8NEeWb_N-JqogGXQ" position="156,70" size="597,169">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Sbga8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_lice0a8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6Ws8K8NEeWb_N-JqogGXQ" position="17,11" size="565,-1">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Ws8a8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lieUAK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6Ws8q8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m6Ws868NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Ws9K8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lieUAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6Ws9a8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m6Ws9q8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Ws968NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lieUAK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6a-YK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6a-Ya8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lyj-cK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6cMgK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6cMga8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lylzoa8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6eBsK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6eBsa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lyno0K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_m6TpoK8NEeWb_N-JqogGXQ" position="70,295" size="770,280">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6Tpoa8NEeWb_N-JqogGXQ" presentation="default">
+              <element href="bookstore.uml#_ligwQK8NEeWb_N-JqogGXQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_m6hsEK8NEeWb_N-JqogGXQ" position="88,52" size="593,-1">
+              <anchorage xmi:id="_m6ugYK8NEeWb_N-JqogGXQ" graphEdge="_m6yKwK8NEeWb_N-JqogGXQ"/>
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6hsEa8NEeWb_N-JqogGXQ" presentation="default">
+                <element href="bookstore.uml#_lih-YK8NEeWb_N-JqogGXQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6hsEq8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m6hsE68NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="37"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6hsFK8NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lih-YK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6kvYK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6kvYa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lyqsIK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6l9gK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6l9ga8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lyvkoK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_m6hsFa8NEeWb_N-JqogGXQ">
+                <property xmi:id="_m6hsFq8NEeWb_N-JqogGXQ" key="eStructuralFeatureID" value="47"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6hsF68NEeWb_N-JqogGXQ" presentation="default">
+                  <element href="bookstore.uml#_lih-YK8NEeWb_N-JqogGXQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6l9gq8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6l9g68NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_lyyn8K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6mkkK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6mkka8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ly1EMK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6oZwK8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6oZwa8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ly4HgK8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_m6pn4K8NEeWb_N-JqogGXQ" position="0,0" size="-1,-1">
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6pn4a8NEeWb_N-JqogGXQ" presentation="default">
+                    <element href="bookstore.uml#_ly7x4K8NEeWb_N-JqogGXQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m6RNYK8NEeWb_N-JqogGXQ" anchor="_m6OxIK8NEeWb_N-JqogGXQ _m6OxIa8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYFx0K8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6RNYa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1UXgK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNYq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNY68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNZK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNZa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNZq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6RNZ68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6RNaK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6RNaa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+        <contained xsi:type="di:GraphEdge" xmi:id="_m6yKwK8NEeWb_N-JqogGXQ" anchor="_m6OxIa8NEeWb_N-JqogGXQ _m6ugYK8NEeWb_N-JqogGXQ">
+          <property xmi:id="_nYFx0q8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6yKwa8NEeWb_N-JqogGXQ" presentation="default">
+            <element href="bookstore.uml#_l1VloK8NEeWb_N-JqogGXQ"/>
+          </semanticModel>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKwq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKw68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKxK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKxa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKxq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+          <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6yKx68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6yKyK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+          <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6yKya8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m2PB8K8NEeWb_N-JqogGXQ" anchor="_m2NMwK8NEeWb_N-JqogGXQ _m2NMwa8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYDVkq8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m2PB8a8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1QtIq8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB8q8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB868NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB9K8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB9a8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB9q8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m2PB968NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m2PB-K8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m2PB-a8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m24iMK8NEeWb_N-JqogGXQ" anchor="_m22F8K8NEeWb_N-JqogGXQ _m2NMwK8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYEjsa8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m24iMa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1O38K8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iMq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iM68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iNK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iNa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iNq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m24iN68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m24iOK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m24iOa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m3C6QK8NEeWb_N-JqogGXQ" anchor="_m3BFEK8NEeWb_N-JqogGXQ _m1ZUcK8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYEjsq8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3C6Qa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1QGEK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6Qq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6Q68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6RK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6Ra8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6Rq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3C6R68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3C6SK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3C6Sa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m3EvcK8NEeWb_N-JqogGXQ" anchor="_m3BFEK8NEeWb_N-JqogGXQ _m1fbEK8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYEjs68NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3Evca8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1QtIK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Evcq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Evc68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3EvdK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Evda8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Evdq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Evd68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3EveK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3Evea8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m3Jn8K8NEeWb_N-JqogGXQ" anchor="_mytM0K8NEeWb_N-JqogGXQ _m3BFEK8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYDVka8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m3Jn8a8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1R7QK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn8q8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn868NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn9K8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn9a8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn9q8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m3Jn968NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3Jn-K8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m3Jn-a8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m4wKcK8NEeWb_N-JqogGXQ" anchor="_m2NMwK8NEeWb_N-JqogGXQ _m4pcwa8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYD8oK8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m4wKca8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1TJYK8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKcq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKc68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKdK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKda8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKdq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m4wKd68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m4wKeK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m4wKea8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_m6EZEK8NEeWb_N-JqogGXQ" anchor="_m6Cj4K8NEeWb_N-JqogGXQ _m4pcwK8NEeWb_N-JqogGXQ">
+        <property xmi:id="_nYFx0a8NEeWb_N-JqogGXQ" key="router" value="Automatic"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_m6EZEa8NEeWb_N-JqogGXQ" presentation="default">
+          <element href="bookstore.uml#_l1TJYq8NEeWb_N-JqogGXQ"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZEq8NEeWb_N-JqogGXQ" id="srcNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZE68NEeWb_N-JqogGXQ" id="srcPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZFK8NEeWb_N-JqogGXQ" id="srcCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZFa8NEeWb_N-JqogGXQ" id="targetNameEdgeObject" uDistance="10" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZFq8NEeWb_N-JqogGXQ" id="targetPropertiesEdgeObject" uDistance="25" vDistance="10"/>
+        <contained xsi:type="di:EdgeObjectUV" xmi:id="_m6EZF68NEeWb_N-JqogGXQ" id="targetCountEdgeObject" uDistance="10" vDistance="-10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6EZGK8NEeWb_N-JqogGXQ" visible="false" id="middleNameEdgeObject" offset="0,10"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_m6EZGa8NEeWb_N-JqogGXQ" id="stereotypeEdgeObject" offset="0,-10"/>
+      </contained>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>
